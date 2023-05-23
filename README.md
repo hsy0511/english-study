@@ -18,4 +18,6 @@
 - the woman pays us : 그 여자는 우리에게 지불합니다.
 - he wants an apples : 그는 사과를 원합니다.
 - 그 아이는 그녀의 어머니를 좋아합니다. : the child likes her mother
+
+확인 : ksm
 # 0524
