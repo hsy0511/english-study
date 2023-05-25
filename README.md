@@ -33,3 +33,24 @@
 - she loves me : 그녀는 나를 사랑합니다.
 - 우리 아이가 놉니다 : our child plays
 - 나의 개가 놉니다 : my dog plays
+
+# 0525
+## 단어
+- say : 말함
+- listen : 듣다
+- hear : 소리가 들린다.
+- touch : 만지다
+## 문장
+- i say yes : 나는 네라고 말한다.
+- i listen : 나는 듣습니다.
+- i hear her : 나는 그녀의 소리가 들립니다.
+- they listen : 그들은 듣습니다.
+- he listens : 그는 듣습니다.
+- they say no : 그들은 아니라고 말합니다.
+- she hears us : 그녀는 우리의 소리가 들립니다.
+- i touch my plate : 나는 나의 접시를 만집니다.
+- she says yes : he speaks, she listens. : 그는 말합니다. 그녀는 듣습니다.
+- the girl hears the dog : 그 소녀에게 그 개의 소리가 들립니다.
+- the girl hears the bear : 그 소녀는 그 곰의 소리가 들립니다.
+- 아이들이 들어요 : children listen
+- 
