@@ -27,9 +27,9 @@
 - use : 사용하다
 - play : 놀다
 ## 문장
-it rains : 비가 내립니다.
-i love you : 나는 너를 사랑해
-i use sugar : 나는 설탕을 사용합니다.
-she loves me : 그녀는 나를 사랑합니다.
-우리 아이가 놉니다 : our child plays
-나의 개가 놉니다 : my dog plays
+- it rains : 비가 내립니다.
+- i love you : 나는 너를 사랑해
+- i use sugar : 나는 설탕을 사용합니다.
+- she loves me : 그녀는 나를 사랑합니다.
+- 우리 아이가 놉니다 : our child plays
+- 나의 개가 놉니다 : my dog plays
