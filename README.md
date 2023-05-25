@@ -2,7 +2,7 @@
 # 0523
 ## 단어
 - pay : 지불하다.
-- goes : 간다.
+- go : 간다.
 - like : 좋아하다.
 - want : 원하다.
 ## 문장
@@ -21,3 +21,15 @@
 
 확인 : ksm
 # 0524
+## 단어
+- rain : 비 내림
+- love : 사랑함
+- use : 사용하다
+- play : 놀다
+## 문장
+it rains : 비가 내립니다.
+i love you : 나는 너를 사랑해
+i use sugar : 나는 설탕을 사용합니다.
+she loves me : 그녀는 나를 사랑합니다.
+우리 아이가 놉니다 : our child plays
+나의 개가 놉니다 : my dog plays
