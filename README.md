@@ -53,4 +53,4 @@
 - the girl hears the dog : 그 소녀에게 그 개의 소리가 들립니다.
 - the girl hears the bear : 그 소녀는 그 곰의 소리가 들립니다.
 - 아이들이 들어요 : children listen
-- 
+
