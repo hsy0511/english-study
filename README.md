@@ -54,7 +54,7 @@
 - the girl hears the bear : 그 소녀는 그 곰의 소리가 들립니다.
 - 아이들이 들어요 : children listen
 # 0530
-- 문장 듣고 빈칸에 알맞은 문구 넣기
+## 문장 듣고 빈칸에 알맞은 문구 넣기
 
 1. Junior. You want this game, but ______________.
 
@@ -67,4 +67,9 @@
 3. _________?
 
 답 : so can we go home?
-
+## 문장
+- The woman has dresses. : 그 여자는 드레스들을 가지고 있습니다.
+- 그는 자고 나는 요리합니다. : He sleeps and i cook
+- 우리는 그 책들을 좋아합니다. : We like the books
+- I touch my plate : 나는 나의 접시를 만집니다.
+- 그들은 듣습니다. : they listen 
