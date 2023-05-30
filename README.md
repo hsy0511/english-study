@@ -53,4 +53,18 @@
 - the girl hears the dog : 그 소녀에게 그 개의 소리가 들립니다.
 - the girl hears the bear : 그 소녀는 그 곰의 소리가 들립니다.
 - 아이들이 들어요 : children listen
+# 0530
+- 문장 듣고 빈칸에 알맞은 문구 넣기
+
+1. Junior. You want this game, but ______________.
+
+답 : you don't need it
+
+2. No, you have video games _____________!
+
+답 : at home
+
+3. _________
+
+답 : so can we go home?
 
