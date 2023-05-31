@@ -78,10 +78,10 @@
 - wear : 입는다.
 - have : 가지고 있다.
 ## 문장
-she wears a skirt :  그녀는 치마를 입습니다.
-i wear a shirt : 나는 셔츠를 입습니다.
-the shirt is fine : 그 셔츠는 괜찮습니다.
-그의 신발 : His shoe
-she wears my shones : 그녀는 나의 신발을 신고 있습니다.
-그녀는 내 신발을 신고 있습니다. : she wears my shoes
-그 여자는 드레스들을 가지고 있습니다. : the woman has dresses
+- she wears a skirt :  그녀는 치마를 입습니다.
+- i wear a shirt : 나는 셔츠를 입습니다.
+- the shirt is fine : 그 셔츠는 괜찮습니다.
+- 그의 신발 : His shoe
+- she wears my shones : 그녀는 나의 신발을 신고 있습니다.
+- 그녀는 내 신발을 신고 있습니다. : she wears my shoes
+- 그 여자는 드레스들을 가지고 있습니다. : the woman has dresses
