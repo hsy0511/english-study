@@ -82,7 +82,14 @@
 - i wear a shirt : 나는 셔츠를 입습니다.
 - the shirt is fine : 그 셔츠는 괜찮습니다.
 - 그의 신발 : His shoe
-- she wears my shones : 그녀는 나의 신발을 신고 있습니다.
+- she wears my shoes : 그녀는 나의 신발을 신고 있습니다.
 - 그녀는 내 신발을 신고 있습니다. : she wears my shoes
 - 그 여자는 드레스들을 가지고 있습니다. : the woman has dresses
 # 0601
+## 문장
+- He wears a hat : 그는 모자를 씁니다.
+- she wears pants : 그녀는 바지를 입습니다.
+- 내 옷들 : my clothes.
+- 그의 정장 : His suit
+- I have your clothes. : 나는 너의 옷들을 가지고 있다.
+- 내 신발들은 노란색입니다. : Myshoes are yellow
