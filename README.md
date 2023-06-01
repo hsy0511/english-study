@@ -85,3 +85,4 @@
 - she wears my shones : 그녀는 나의 신발을 신고 있습니다.
 - 그녀는 내 신발을 신고 있습니다. : she wears my shoes
 - 그 여자는 드레스들을 가지고 있습니다. : the woman has dresses
+# 0601
