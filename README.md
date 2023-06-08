@@ -93,3 +93,17 @@
 - 그의 정장 : His suit
 - I have your clothes. : 나는 너의 옷들을 가지고 있다.
 - 내 신발들은 노란색입니다. : Myshoes are yellow
+# 0608
+## 단어
+- read : 읽다
+- not : 아니다
+- eat : 먹다
+## 문장
+- not me : 나는 아닙니다.
+- I read him a book : 나는 그에게 책을 읽어줍니다.
+- They read us a book : 그들은 우리에게 책을 읽어줍니다.
+- Sorry, not me : 미안합니다, 나는 아닙니다.
+- the elephant eats it : 그 코끼리가 그것을 먹습니다.
+- 우리는 그들에게 신문을 읽어줍니다. : we read them a newspaper
+- i read them : 나는 그것들을 읽습니다.
+- 그 소년이 그것을 먹습니다. : the boy eats it
