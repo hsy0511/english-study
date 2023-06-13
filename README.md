@@ -107,3 +107,18 @@
 - 우리는 그들에게 신문을 읽어줍니다. : we read them a newspaper
 - i read them : 나는 그것들을 읽습니다.
 - 그 소년이 그것을 먹습니다. : the boy eats it
+# 0613
+## 단어
+- pink - 분홍색
+- gray - 회색
+- color - 색깔
+- puple : 보라색
+- brown : 갈색
+- colorful : 다채롭다.
+## 문장
+- my pink shirts : 내 분홍색 셔츠들
+- the dog is gay : 그 개는 회색입니다.
+- my color is pink : 내 색은 핑크색 입니다.
+- the hat is puple : 그 모자는 보라색 입니다.
+- i have a brown hat : 나는 갈색 모자를 갖고 있어요.
+- i have a colorful shirt : 나는 다채로운 색의 셔츠를 가지고 있다.
