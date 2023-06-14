@@ -122,3 +122,10 @@
 - the hat is puple : 그 모자는 보라색 입니다.
 - i have a brown hat : 나는 갈색 모자를 갖고 있어요.
 - i have a colorful shirt : 나는 다채로운 색의 셔츠를 가지고 있다.
+# 0614
+## 문장
+- a blue skirt : 파란 치마
+- our skirt is black : 우리의 치마는 검정색입니다.
+- you have a brown hat : 당신은 갈색 모자를 가지고 있습니다.
+- she wears a blue skirt : 그녀는 파란 치마를 입습니다.
+- a red apple is on the plate :  붉은 사과가 그 접시 위에 있습니다.
