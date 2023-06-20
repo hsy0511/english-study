@@ -129,3 +129,16 @@
 - you have a brown hat : 당신은 갈색 모자를 가지고 있습니다.
 - she wears a blue skirt : 그녀는 파란 치마를 입습니다.
 - a red apple is on the plate :  붉은 사과가 그 접시 위에 있습니다.
+# 0620
+# 단어
+-  write : 씁니다.
+-  walk : 걷다.
+-  see : 보다
+# 문장
+- he swims : 그가 수영합니다.
+- we walk : 우리는 걷습니다.
+- we write a book : 우리는 책을 씁니다.
+- i write and you read : 나는 쓰고 당신은 읽습니다.
+- he walks on water : 그는 물 위를 걷습니다.
+- he write the menu : 그는 메뉴를 적습니다.
+-  i see a man : 저는 남자를 봅니다.
