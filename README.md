@@ -146,10 +146,10 @@
 # 단어
 - sleep : 잔다.
 - run : 달린다.
-- cook : 요리하다
+- cook : 요리하다.
 # 문장
 - I sleep : 나는 잠 잡니다.
 - she runs : 그녀는 달립니다.
-- i cook pasta : 나는 파스타를 요리해요
+- i cook pasta : 나는 파스타를 요리해요.
 - the turtle walks and the dog runs : 그 거북이는 걷고 그 개는 달립니다.
 - he cooks meat : 그는 고기를 요리합니다.
