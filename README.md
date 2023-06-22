@@ -153,3 +153,18 @@
 - i cook pasta : 나는 파스타를 요리해요.
 - the turtle walks and the dog runs : 그 거북이는 걷고 그 개는 달립니다.
 - he cooks meat : 그는 고기를 요리합니다.
+# 0622
+
+# 문장
+- the men pays : 그 남자가 지불합니다.
+- the child likes her mother : 그 아이는 그녀의 어머니를 좋아합니다.
+- she wants the cheese. : 그녀가 그 치즈를 원합니다.
+- and she gose : 그리고 그녀가 갑니다.
+- he and i want a beer : 나와 그는 맥주를 원합니다.
+- they like the watch : 그들은 그 속목시계를 좋아합니다.
+
+# 문법
+- a banana : 바로 뒷 문장이 자음으로 시작하면 a
+- an old banana : 바로 뒷 문장이 모음으로 시작하면 an
+
+ 
