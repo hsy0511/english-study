@@ -166,5 +166,13 @@
 # 문법
 - a banana : 바로 뒷 문장이 자음으로 시작하면 a
 - an old banana : 바로 뒷 문장이 모음으로 시작하면 an
-
+# 0627
+# 단어
+- play : 놀다, 하다
+# 문장
+- i use the book : 나는 그 책을 이용합니다.
+- the men go : 그 남자들이 갑니다.
+- he plays soccer : 그는 축구를 합니다.
+- i love cat : 나는 고양이들을 사랑합니다.
+- 그 동물들이 놉니다. : the animals play
  
