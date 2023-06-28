@@ -176,3 +176,12 @@
 - i love cat : 나는 고양이들을 사랑합니다.
 - 그 동물들이 놉니다. : the animals play
  
+# 0628
+# 문장
+- he says : 그가 말한다.
+- she listens : 그녀가 듣는다.
+- she hears us : 그녀에게 우리의 소리가 들린다.
+- the children say good night : 그 아이들이 잘 자라고 말한다.
+- they touch the elephant : 그들은 그 코끼리를 만진다.
+- 그 남자들은 듣습니다. : the men listen
+- 아이들이 들어요 : children listen
