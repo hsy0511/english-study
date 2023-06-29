@@ -185,3 +185,17 @@
 - they touch the elephant : 그들은 그 코끼리를 만진다.
 - 그 남자들은 듣습니다. : the men listen
 - 아이들이 들어요 : children listen
+
+# 0629
+# 단어
+- find : 찾다
+- make : 만들다
+- tell : 말하다.
+- support : 지지하다
+# 문장
+- we find : 우리는 찾습니다.
+- you make coffee : 당신은 커피를 만듭니다.
+- please tell me : 제발, 내게 말하십시오.
+- 우리는 식량을 찾습니다. : we find food
+- 우리는 여자들을 지지합니다. : we support women
+- 나는 샌드위치를 만들어요 : i make a sandwich
